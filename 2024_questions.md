@@ -28,15 +28,15 @@ Linear scale
 - 1 - Not helpful at all (never use documentation)
 - 5 - Very helpful (frequently and regularly use documentation)
 
-## Select the best descriptions for how you value and use the Matplotlib documentation.
+## How do you use the Matplotlib documentation? Select all options that apply.
 
 Checkboxes
 
 - I use the docs to help me develop software.
-- I read the docs to help me learn about Python, data science, and visualization.
-- I read the docs to study for course work for an academic discipline (e.g. mathematics, economics, biology, history, etc.)
-- I use the docs to support my work in research projects (for example, industry, science, digital humanities, etc.)
-- I contribute to the docs and work with the community with other scientific Python projects.
+- I read the docs to learn about Python programming, data science, and data visualization.
+- I refer to the docs to support my academic coursework.
+- I use the docs for research projects in various fields.
+- I contribute to the docs.
 - Other 
 
 ## How do you read Matplotlib API documentation or docstrings? Rank the following options from most likely to least likely.
