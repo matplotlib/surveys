@@ -42,19 +42,6 @@ Checkboxes
 - I contribute to the docs and work with the community with other scientific Python projects.
 - Other 
 
-## How do you read Matplotlib API documentation or docstrings? Rank the following options from most likely to least likely.
-
-Multiple choice grid, response required in each row
-
-- Rows
-    - Most likely
-    - Neutral
-    - Least likely
-- Columns
-    - In a shell, raw text only
-    - In an IDE with basic docstring rendering
-    - On the Matplotlib documentation website
-
 ## How would you organize the importance of the following Matplotlib documentation categories?
 
 Multiple choice grid, response required in each row
@@ -89,7 +76,7 @@ Multiple choice grid, response required in each row
     - More difficult
     - Most difficult
 
-## What resources do you use to supplement your experience with Matplotlib documentation? Rank the choices from most preferred to least preferred.
+## What resources do you use in your experience with Matplotlib documentation? Rank the choices from most preferred to least preferred.
 
 Multiple choice grid, response required in each row
 
@@ -97,6 +84,8 @@ Multiple choice grid, response required in each row
     - Official documentation site
     - Short form videos (e.g. TikTok, YouTube Shorts, etc.)
     - Long form videos (e.g. Youtube videos, presentations, etc.)
+    - In a shell, raw text only
+    - In an IDE with basic docstring rendering
     - Third party documentation
     - AI tools (e.g. ChatGPT, Claude, Gemini, etc.)
 - Columns
