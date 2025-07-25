@@ -81,11 +81,11 @@ Multiple choice grid, response required in each row
 Multiple choice grid, response required in each row
 
 - Rows
-    - Official documentation site
+    - Official documentation website
+    - Official documentation in a shell, raw text only
+    - Official documentation in an IDE with basic docstring rendering
     - Short form videos (e.g. TikTok, YouTube Shorts, etc.)
     - Long form videos (e.g. Youtube videos, presentations, etc.)
-    - In a shell, raw text only
-    - In an IDE with basic docstring rendering
     - Third party documentation
     - AI tools (e.g. ChatGPT, Claude, Gemini, etc.)
 - Columns
