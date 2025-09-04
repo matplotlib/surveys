@@ -28,8 +28,8 @@ Checkboxes
 
 Linear scale
 
-- 1 - Not helpful at all (never use documentation)
-- 5 - Very helpful (frequently and regularly use documentation)
+- 1 - Not helpful at all
+- 5 - Very helpful
 
 ## Select the best descriptions for how you value and use the Matplotlib documentation.
 
